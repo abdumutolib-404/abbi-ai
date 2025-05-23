@@ -55,6 +55,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+/*   font-family: write; */
+}
+@font-face {
+  font-family: write;
+  src: url(/fonts/handwrite.ttf);
 }
 
 html {
